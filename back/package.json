@@ -1,5 +1,6 @@
 {
   "name": "projeto_11_tweteroo",
+  "type": "module",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
